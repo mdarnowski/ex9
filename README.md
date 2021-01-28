@@ -1,2 +1,5 @@
-# ex9
-ORM framework
+# exercise ORM framework
+
+s18322
+Mateusz Darnowski
+13c
